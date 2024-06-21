@@ -1,0 +1,23 @@
+* {
+  font-family: "Raleway", sans-serif;
+  font-weight: 600;
+}
+
+.movie-buttons {
+  display: flex;
+  justify-content: space-around;
+  padding-top: 30px;
+}
+
+.movie-buttons button {
+  font-size: 20px;
+  padding: 10px;
+  cursor: pointer;
+  color: white;
+  background-color: rgb(42, 188, 246);
+}
+
+.movie-buttons button:hover {
+  color: rgb(11, 15, 15);
+  background-color: white;
+}

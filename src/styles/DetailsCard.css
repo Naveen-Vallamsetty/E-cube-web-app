@@ -1,0 +1,73 @@
+* {
+  font-family: "Raleway", sans-serif;
+  font-weight: 600;
+}
+
+.heading {
+  color: grey;
+  font-weight: 600;
+  text-align: center;
+  font-size: 40px;
+}
+
+.movie-details-container {
+  display: flex;
+  justify-content: center;
+}
+
+.movie-details-card {
+  width: 40%;
+  background-color: #f9f9f9;
+  border-radius: 10px;
+  padding: 20px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.movie-details {
+  display: flex;
+  flex-direction: column;
+}
+
+.movie-details img {
+  width: 100%;
+  border-radius: 5px;
+  margin-bottom: 20px;
+}
+
+.movie-details h3 {
+  font-size: 24px;
+  margin-bottom: 10px;
+}
+
+.movie-details button {
+  padding: 10px 20px;
+  margin-top: 20px;
+  background-color: rgb(42, 188, 246);
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  font-size: 18px;
+  transition: background-color 0.3s ease;
+}
+
+.movie-details button:hover {
+  background-color: #0056b3;
+}
+
+.back-button {
+  padding: 30px;
+  text-align: center;
+}
+
+.subheading {
+  font-size: 20px;
+  font-family: "Cabin", sans-serif;
+  margin-bottom: 0;
+  line-height: 1.5;
+}
+
+.subheading span {
+  font-size: 18px;
+  color: rgba(50, 36, 36, 0.838);
+}

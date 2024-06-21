@@ -1,0 +1,20 @@
+.page {
+  flex-direction: column;
+  padding: 20pt;
+}
+
+.section {
+  margin-bottom: 10pt;
+}
+
+.title {
+  font-size: 18pt;
+  margin-bottom: 10pt;
+}
+
+.image {
+  margin-bottom: 10pt;
+  width: 100%;
+  height: 200pt;
+  object-fit: cover;
+}

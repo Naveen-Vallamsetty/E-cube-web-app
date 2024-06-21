@@ -1,0 +1,658 @@
+{
+  "latest": [
+    {
+      "id": "1",
+      "title": "Thor",
+      "image": "https://wallpapercave.com/wp/wp8006765.jpg",
+      "genre": "Action, Adventure, Comedy",
+      "director": "Taika Waititi",
+      "stars": [
+        "Chris Hemsworth",
+        "Tom Hiddleston",
+        "Cate Blanchett",
+        "Mark Ruffalo"
+      ],
+      "plot": "Thor is imprisoned on the planet Sakaar, and must race against time to return to Asgard and stop Ragnarök, the destruction of his world, at the hands of the powerful and ruthless villain Hela.",
+      "prices": {
+        "normal": 200,
+        "superior": 300,
+        "sofa": 600
+      },
+      "releasedDate": "2017-11-03",
+      "duration": "2h 10min",
+      "ratings": 7.9,
+      "showTimings": [
+        "10:00 AM",
+        "1:00 PM",
+        "4:00 PM",
+        "7:00 PM"
+      ]
+    },
+    {
+      "id": "2",
+      "title": "Wonder Woman",
+      "image": "https://wallpapercrafter.com/desktop1/512621-Movie-Wonder-Woman-1984-Actress-Armor-DC-Comics.jpg",
+      "genre": "Action, Adventure, Fantasy",
+      "director": "Patty Jenkins",
+      "stars": [
+        "Gal Gadot",
+        "Chris Pine",
+        "Robin Wright",
+        "Lucy Davis"
+      ],
+      "plot": "When a pilot crashes and tells of conflict in the outside world, Diana, an Amazonian warrior in training, leaves home to fight a war, discovering her full powers and true destiny.",
+      "prices": {
+        "normal": 200,
+        "superior": 300,
+        "sofa": 600
+      },
+      "releasedDate": "2017-06-02",
+      "duration": "2h 21min",
+      "ratings": 7.4,
+      "showTimings": [
+        "9:30 AM",
+        "12:30 PM",
+        "3:30 PM",
+        "6:30 PM"
+      ]
+    },
+    {
+      "id": "3",
+      "title": "Logan",
+      "image": "https://lumiere-a.akamaihd.net/v1/images/au_movies_20cs_logan_poster_f1907839.jpeg?region=0,0,588,882",
+      "genre": "Action, Drama, Sci-Fi",
+      "director": "James Mangold",
+      "stars": [
+        "Hugh Jackman",
+        "Patrick Stewart",
+        "Dafne Keen",
+        "Boyd Holbrook"
+      ],
+      "plot": "In the near future, a weary Logan cares for an ailing Professor X, somewhere on the Mexican border. However, Logan's attempts to hide from the world, and his legacy, are upended when a young mutant arrives, pursued by dark forces.",
+      "prices": {
+        "normal": 220,
+        "superior": 320,
+        "sofa": 620
+      },
+      "releasedDate": "2017-03-03",
+      "duration": "2h 17min",
+      "ratings": 8.1,
+      "showTimings": [
+        "11:00 AM",
+        "2:00 PM",
+        "5:00 PM",
+        "8:00 PM"
+      ]
+    },
+    {
+      "id": "4",
+      "title": "Despicable Me 3",
+      "image": "https://hardrockfm.com/wp-content/uploads/2016/12/dispicable-me-511x400.jpg",
+      "genre": "Animation, Action, Adventure",
+      "director": "Kyle Balda, Pierre Coffin, Eric Guillon",
+      "stars": [
+        "Steve Carell",
+        "Kristen Wiig",
+        "Trey Parker",
+        "Miranda Cosgrove"
+      ],
+      "plot": "Gru meets his long-lost charming, cheerful, and more successful twin brother Dru who wants to team up with him for one last criminal heist.",
+      "prices": {
+        "normal": 180,
+        "superior": 280,
+        "sofa": 580
+      },
+      "releasedDate": "2017-06-30",
+      "duration": "1h 29min",
+      "ratings": 6.3,
+      "showTimings": [
+        "10:30 AM",
+        "1:30 PM",
+        "4:30 PM",
+        "7:30 PM"
+      ]
+    },
+    {
+      "id": "5",
+      "title": "Star Wars: The Last Jedi",
+      "image": "https://www.tanikal.com/wp-content/uploads/2017/11/star_wars_the_last_jedi_2017_4k_8k-wide.jpg",
+      "genre": "Action, Adventure, Fantasy",
+      "director": "Rian Johnson",
+      "stars": [
+        "Daisy Ridley",
+        "John Boyega",
+        "Mark Hamill",
+        "Carrie Fisher"
+      ],
+      "plot": "Rey develops her newly discovered abilities with the guidance of Luke Skywalker, who is unsettled by the strength of her powers. Meanwhile, the Resistance prepares for battle with the First Order.",
+      "prices": {
+        "normal": 250,
+        "superior": 350,
+        "sofa": 650
+      },
+      "releasedDate": "2017-12-15",
+      "duration": "2h 32min",
+      "ratings": 7,
+      "showTimings": [
+        "9:15 AM",
+        "12:15 PM",
+        "3:15 PM",
+        "6:15 PM"
+      ]
+    },
+    {
+      "id": "6",
+      "title": "Coco",
+      "image": "https://mediad.publicbroadcasting.net/p/shared/npr/styles/x_large/nprshared/201805/564893290.jpg",
+      "genre": "Animation, Adventure, Family",
+      "director": "Lee Unkrich, Adrian Molina",
+      "stars": [
+        "Anthony Gonzalez",
+        "Gael García Bernal",
+        "Benjamin Bratt",
+        "Alanna Ubach"
+      ],
+      "plot": "Aspiring musician Miguel, confronted with his family's ancestral ban on music, enters the Land of the Dead to find his great-great-grandfather, a legendary singer.",
+      "prices": {
+        "normal": 190,
+        "superior": 290,
+        "sofa": 590
+      },
+      "releasedDate": "2017-11-22",
+      "duration": "1h 45min",
+      "ratings": 8.4,
+      "showTimings": [
+        "10:45 AM",
+        "1:45 PM",
+        "4:45 PM",
+        "7:45 PM"
+      ]
+    },
+    {
+      "id": "7",
+      "title": "Get Out",
+      "image": "https://cdn0.vox-cdn.com/thumbor/06EZKPyvI1t4u7eJr7CYn9OVV2g=/0x0:851x479/1600x900/cdn0.vox-cdn.com/uploads/chorus_image/image/51200361/get_out.0.0.png",
+      "genre": "Horror, Mystery, Thriller",
+      "director": "Jordan Peele",
+      "stars": [
+        "Daniel Kaluuya",
+        "Allison Williams",
+        "Bradley Whitford",
+        "Catherine Keener"
+      ],
+      "plot": "A young African-American visits his white girlfriend's parents for the weekend, where his simmering uneasiness about their reception of him eventually reaches a boiling point.",
+      "prices": {
+        "normal": 210,
+        "superior": 310,
+        "sofa": 610
+      },
+      "releasedDate": "2017-02-24",
+      "duration": "1h 44min",
+      "ratings": 7.7,
+      "showTimings": [
+        "10:15 AM",
+        "1:15 PM",
+        "4:15 PM",
+        "7:15 PM"
+      ]
+    },
+    {
+      "id": "8",
+      "title": "Dunkirk",
+      "image": "https://images.hdqwalls.com/download/dunkirk-movie-74-2560x1440.jpg",
+      "genre": "Action, Drama, History",
+      "director": "Christopher Nolan",
+      "stars": [
+        "Fionn Whitehead",
+        "Barry Keoghan",
+        "Mark Rylance",
+        "Tom Hardy"
+      ],
+      "plot": "Allied soldiers from Belgium, the British Empire, and France are surrounded by the German Army and evacuated during a fierce battle in World War II.",
+      "prices": {
+        "normal": 230,
+        "superior": 330,
+        "sofa": 630
+      },
+      "releasedDate": "2017-07-21",
+      "duration": "1h 46min",
+      "ratings": 7.8,
+      "showTimings": [
+        "9:00 AM",
+        "12:00 PM",
+        "3:00 PM",
+        "6:00 PM"
+      ]
+    },
+    {
+      "id": "9",
+      "title": "Blade Runner 2049",
+      "image": "https://www.hdwallpaperslife.com/wp-content/uploads/2017/07/blade_runner_2049_ryan_gosling_ana_de_armas_4k-3840x2160.jpg",
+      "genre": "Action, Drama, Mystery",
+      "director": "Denis Villeneuve",
+      "stars": [
+        "Harrison Ford",
+        "Ryan Gosling",
+        "Ana de Armas",
+        "Dave Bautista"
+      ],
+      "plot": "Young Blade Runner K's discovery of a long-buried secret leads him to track down former Blade Runner Rick Deckard, who's been missing for thirty years.",
+      "prices": {
+        "normal": 240,
+        "superior": 340,
+        "sofa": 640
+      },
+      "releasedDate": "2017-10-06",
+      "duration": "2h 44min",
+      "ratings": 8,
+      "showTimings": [
+        "9:45 AM",
+        "12:45 PM",
+        "3:45 PM",
+        "6:45 PM"
+      ]
+    },
+    {
+      "id": "10",
+      "title": "The Shape of Water",
+      "image": "https://thebogotapost.com/wp-content/uploads/2018/01/film-review-the-shape-of-water.jpg",
+      "genre": "Adventure, Drama, Fantasy",
+      "director": "Guillermo del Toro",
+      "stars": [
+        "Sally Hawkins",
+        "Octavia Spencer",
+        "Michael Shannon",
+        "Doug Jones"
+      ],
+      "plot": "At a top secret research facility in the 1960s, a lonely janitor forms a unique relationship with an amphibious creature that is being held in captivity.",
+      "prices": {
+        "normal": 220,
+        "superior": 320,
+        "sofa": 620
+      },
+      "releasedDate": "2017-12-22",
+      "duration": "2h 3min",
+      "ratings": 7.3,
+      "showTimings": [
+        "10:20 AM",
+        "1:20 PM",
+        "4:20 PM",
+        "7:20 PM"
+      ]
+    }
+  ],
+  "upcomingMovies": [
+    {
+      "id": "1",
+      "title": "The Batman",
+      "image": "http://www.pixelstalk.net/wp-content/uploads/2015/12/Batman-cover-movie-twitter-background-tvshows-movies-wallpaper.jpg",
+      "genre": "Action, Crime, Drama",
+      "director": "Matt Reeves",
+      "stars": "Robert Pattinson, Zoë Kravitz, Paul Dano",
+      "plot": "In his second year of fighting crime, Batman uncovers corruption in Gotham City while facing a serial killer known as the Riddler.",
+      "releaseDate": "2024-05-14",
+      "duration": "180 min",
+      "ratings": "8.5",
+      "showTimings": [
+        "12:00 PM",
+        "3:00 PM",
+        "6:00 PM",
+        "9:00 PM"
+      ]
+    },
+    {
+      "id": "2",
+      "title": "Avatar 2",
+      "image": "https://wallpapercave.com/wp/wp5212096.jpg",
+      "genre": "Action, Adventure, Fantasy",
+      "director": "James Cameron",
+      "stars": "Sam Worthington, Zoe Saldana, Sigourney Weaver",
+      "plot": "A sequel to the 2009 blockbuster Avatar, this movie continues the story of the Na'vi people and their conflict with human invaders.",
+      "releaseDate": "2024-07-10",
+      "duration": "160 min",
+      "ratings": "9.0",
+      "showTimings": [
+        "11:30 AM",
+        "2:30 PM",
+        "5:30 PM",
+        "8:30 PM"
+      ]
+    },
+    {
+      "id": "3",
+      "title": "Jurassic World: Dominion",
+      "image": "https://wallpapercave.com/wp/wp7980017.jpg",
+      "genre": "Action, Adventure, Sci-Fi",
+      "director": "Colin Trevorrow",
+      "stars": "Chris Pratt, Bryce Dallas Howard, Jeff Goldblum",
+      "plot": "The sixth film in the Jurassic Park franchise, this movie follows the aftermath of dinosaurs escaping into the world.",
+      "releaseDate": "2024-09-20",
+      "duration": "150 min",
+      "ratings": "8.2",
+      "showTimings": [
+        "1:00 PM",
+        "4:00 PM",
+        "7:00 PM",
+        "10:00 PM"
+      ]
+    },
+    {
+      "id": "4",
+      "title": "Mission: Impossible 8",
+      "image": "https://sportshub.cbsistatic.com/i/2023/05/17/00af46ec-25bd-4b9c-add1-7e1f5ae1b5f0/mission-impossible-dead-reckoning-part-one-poster-new.jpg?auto=webp&width=1200&height=675&crop=1.778:1,smart",
+      "genre": "Action, Adventure, Thriller",
+      "director": "Christopher McQuarrie",
+      "stars": "Tom Cruise, Ving Rhames, Henry Czerny",
+      "plot": "The eighth installment in the Mission: Impossible series follows Ethan Hunt and his team as they face new challenges and enemies.",
+      "releaseDate": "2024-11-05",
+      "duration": "145 min",
+      "ratings": "8.7",
+      "showTimings": [
+        "12:30 PM",
+        "3:30 PM",
+        "6:30 PM",
+        "9:30 PM"
+      ]
+    },
+    {
+      "id": "5",
+      "title": "Indiana Jones 5",
+      "image": "https://cdn.blogo.it/EII1CpJsjltzU-7vzwrmX3Zh4IM=/1450x1102/smart/https://www.blogo.it/app/uploads/sites/3/2023/05/indiana-jones-e-il-quadrante-del-destino-nuove-clip-una-locandina-e-video-colonna-sonora-di-indiana-jones-5.jpg",
+      "genre": "Action, Adventure",
+      "director": "James Mangold",
+      "stars": "Harrison Ford, Mads Mikkelsen, Phoebe Waller-Bridge",
+      "plot": "The fifth installment in the Indiana Jones series follows the iconic archaeologist on a new thrilling adventure.",
+      "releaseDate": "2025-01-15",
+      "duration": "155 min",
+      "ratings": "8.4",
+      "showTimings": [
+        "11:00 AM",
+        "2:00 PM",
+        "5:00 PM",
+        "8:00 PM"
+      ]
+    },
+    {
+      "id": "6",
+      "title": "Black Panther: Wakanda Forever",
+      "image": "https://wallpapercave.com/wp/wp7549438.jpg",
+      "genre": "Action, Adventure, Sci-Fi",
+      "director": "Ryan Coogler",
+      "stars": "Letitia Wright, Lupita Nyong'o, Danai Gurira",
+      "plot": "A sequel to the 2018 hit Black Panther, this movie explores the world of Wakanda and its heroes.",
+      "releaseDate": "2025-03-20",
+      "duration": "170 min",
+      "ratings": "8.9",
+      "showTimings": [
+        "12:00 PM",
+        "3:00 PM",
+        "6:00 PM",
+        "9:00 PM"
+      ]
+    },
+    {
+      "id": "7",
+      "title": "Fantastic Beasts: The Secrets of Dumbledore",
+      "image": "https://cdn.mos.cms.futurecdn.net/XH2uD9DATL7BBbuva9bbFg.jpg",
+      "genre": "Adventure, Family, Fantasy",
+      "director": "David Yates",
+      "stars": "Eddie Redmayne, Katherine Waterston, Jude Law",
+      "plot": "The third installment in the Fantastic Beasts series follows Newt Scamander and Albus Dumbledore as they face new challenges.",
+      "releaseDate": "2025-05-10",
+      "duration": "155 min",
+      "ratings": "8.1",
+      "showTimings": [
+        "1:30 PM",
+        "4:30 PM",
+        "7:30 PM",
+        "10:30 PM"
+      ]
+    },
+    {
+      "id": "8",
+      "title": "The Flash",
+      "image": "http://images6.fanpop.com/image/photos/37800000/The-Flash-Wallpaper-the-flash-cw-37862535-1920-1080.jpg",
+      "genre": "Action, Adventure, Fantasy",
+      "director": "Andy Muschietti",
+      "stars": "Ezra Miller, Ben Affleck, Michael Keaton",
+      "plot": "Based on the DC Comics character, this movie follows Barry Allen as he becomes the superhero known as The Flash.",
+      "releaseDate": "2025-07-20",
+      "duration": "160 min",
+      "ratings": "8.6",
+      "showTimings": [
+        "12:00 PM",
+        "3:00 PM",
+        "6:00 PM",
+        "9:00 PM"
+      ]
+    },
+    {
+      "id": "9",
+      "title": "Guardians of the Galaxy Vol. 3",
+      "image": "https://parade.com/.image/t_share/MTk0MjQwMzAzMTc4MTk2NDg1/guardians-of-the-galaxy-vol-3-header.jpg",
+      "genre": "Action, Adventure, Comedy",
+      "director": "James Gunn",
+      "stars": "Chris Pratt, Zoe Saldana, Dave Bautista",
+      "plot": "The third film in the Guardians of the Galaxy series follows Star-Lord and his team as they embark on a new intergalactic adventure.",
+      "releaseDate": "2025-09-15",
+      "duration": "165 min",
+      "ratings": "8.8",
+      "showTimings": [
+        "1:00 PM",
+        "4:00 PM",
+        "7:00 PM",
+        "10:00 PM"
+      ]
+    },
+    {
+      "id": "10",
+      "title": "The Matrix 4",
+      "image": "https://wallpaperboat.com/wp-content/uploads/2021/09/14/78529/the-matrix-4-05.jpg",
+      "genre": "Action, Sci-Fi",
+      "director": "Lana Wachowski",
+      "stars": "Keanu Reeves, Carrie-Anne Moss, Yahya Abdul-Mateen II",
+      "plot": "A continuation of the iconic Matrix series, this movie delves into new realms of reality and technology.",
+      "releaseDate": "2025-11-20",
+      "duration": "170 min",
+      "ratings": "9.1",
+      "showTimings": [
+        "12:30 PM",
+        "3:30 PM",
+        "6:30 PM",
+        "9:30 PM"
+      ]
+    }
+  ],
+  "events": [
+    {
+      "id": "1",
+      "title": "Music Concert",
+      "image": "https://wallpaperaccess.com/full/3546904.jpg",
+      "date": "2024-04-15",
+      "location": "City Music Hall",
+      "description": "Join us for an unforgettable night of music featuring some of the most talented artists in the industry.",
+      "ticketPrice": 50
+    },
+    {
+      "id": "2",
+      "title": "Art Exhibition",
+      "image": "https://images.hindustantimes.com/img/2021/03/06/1600x900/pjimage_-_2021-03-06T192427.069_1615038899966_1615038907778.jpg",
+      "date": "2024-05-02",
+      "location": "Metropolitan Museum of Art",
+      "description": "Explore the world of art through an immersive exhibition showcasing diverse artworks from renowned artists.",
+      "ticketPrice": 20
+    },
+    {
+      "id": "3",
+      "title": "Food Festival",
+      "image": "https://www.adotrip.com/public/images/events/master_images/5e2ea8e9ab1dd-Street_Food_Fest_Attractions.jpg",
+      "date": "2024-06-10",
+      "location": "Central Park",
+      "description": "Indulge in a gastronomic adventure with a variety of cuisines, street food, and culinary delights.",
+      "ticketPrice": 30
+    },
+    {
+      "id": "4",
+      "title": "Tech Conference",
+      "image": "http://www.thedigitalbridges.com/wp-content/uploads/2018/02/tech-conference-768x498.jpg",
+      "date": "2024-07-20",
+      "location": "Convention Center",
+      "description": "Stay updated with the latest trends in technology, attend insightful talks, and network with industry experts.",
+      "ticketPrice": 100
+    },
+    {
+      "id": "5",
+      "title": "Fashion Show",
+      "image": "https://cdn.newsapi.com.au/image/v1/5827d117959dc46f9131657711877c43",
+      "date": "2024-08-05",
+      "location": "Fashion Center",
+      "description": "Witness the glamour and creativity of the fashion industry with stunning runway displays and cutting-edge designs.",
+      "ticketPrice": 70
+    },
+    {
+      "id": "6",
+      "title": "Comedy Night",
+      "image": "https://www.gridcitymagazine.com/wp-content/uploads/2018/01/comedy-night.jpg",
+      "date": "2024-09-15",
+      "location": "Laugh Factory",
+      "description": "Get ready for a night full of laughter with stand-up comedy performances by top comedians.",
+      "ticketPrice": 40
+    },
+    {
+      "id": "7",
+      "title": "Sports Tournament",
+      "image": "https://gosportsfantasy.com/wp-content/uploads/2021/03/default.jpg",
+      "date": "2024-10-08",
+      "location": "Stadium",
+      "description": "Cheer for your favorite teams and witness thrilling matches in this action-packed sports tournament.",
+      "ticketPrice": 60
+    },
+    {
+      "id": "8",
+      "title": "Film Festival",
+      "image": "https://www.liveabout.com/thmb/_pXT_tMfsoWosagScmjRWlQrFAk=/3000x1958/filters:fill(auto,1)/GettyImages-56636864-47f66dce17a245d7b4e7944a0b74cc32.jpg",
+      "date": "2024-11-20",
+      "location": "Cinema Plaza",
+      "description": "Experience the magic of cinema with a curated selection of films from around the world.",
+      "ticketPrice": 25
+    },
+    {
+      "id": "9",
+      "title": "Fitness Expo",
+      "image": "https://www.tripsavvy.com/thmb/Fp2BKZdyh5ytVQedqCuCEfcl7q4=/5175x3444/filters:fill(auto,1)/fitness-5a25827c5b6e24001afc5bd1-b77be78e90c94b25be7b17b809c3b28e.jpg",
+      "date": "2024-12-05",
+      "location": "Fitness Center",
+      "description": "Explore the latest fitness trends, attend workout sessions, and discover health and wellness products.",
+      "ticketPrice": 35
+    },
+    {
+      "id": "10",
+      "title": "Science Fair",
+      "image": "https://www.science-sparks.com/wp-content/uploads/2019/04/Science-Fair-PRojects-Facebook-1024x1024.png",
+      "date": "2025-01-15",
+      "location": "Science Museum",
+      "description": "Ignite your curiosity and explore the wonders of science through interactive exhibits and hands-on activities.",
+      "ticketPrice": 15
+    }
+  ],
+  "booking-details": [
+    {
+      "id": "f0d4",
+      "movieImg": "https://wallpapercave.com/wp/wp8006765.jpg",
+      "movieName": "Thor",
+      "selectedDate": "2024-04-18",
+      "selectedShowTime": "1:00 PM",
+      "selectedSeats": [
+        "sofa-1",
+        "sofa-2"
+      ],
+      "totalCost": 1200
+    },
+    {
+      "id": "fa7f",
+      "movieImg": "https://wallpapercave.com/wp/wp8006765.jpg",
+      "movieName": "Thor",
+      "selectedDate": "2024-04-18",
+      "selectedShowTime": "1:00 PM",
+      "selectedSeats": [
+        "sofa-1",
+        "sofa-2"
+      ],
+      "totalCost": 1200
+    },
+    {
+      "id": "90d2",
+      "movieImg": "https://lumiere-a.akamaihd.net/v1/images/au_movies_20cs_logan_poster_f1907839.jpeg?region=0,0,588,882",
+      "movieName": "Logan",
+      "selectedDate": "2024-04-25",
+      "selectedShowTime": "2:00 PM",
+      "selectedSeats": [
+        "sofa-1",
+        "sofa-2"
+      ],
+      "totalCost": 1200
+    },
+    {
+      "id": "fa81",
+      "movieImg": "https://lumiere-a.akamaihd.net/v1/images/au_movies_20cs_logan_poster_f1907839.jpeg?region=0,0,588,882",
+      "movieName": "Logan",
+      "selectedDate": "2024-04-25",
+      "selectedShowTime": "2:00 PM",
+      "selectedSeats": [
+        "sofa-1",
+        "sofa-2"
+      ],
+      "totalCost": 1200
+    },
+    {
+      "id": "1bf7",
+      "movieImg": "https://hardrockfm.com/wp-content/uploads/2016/12/dispicable-me-511x400.jpg",
+      "movieName": "Despicable Me 3",
+      "selectedDate": "2024-05-04",
+      "selectedShowTime": "4:30 PM",
+      "selectedSeats": [
+        "sofa-1",
+        "sofa-2",
+        "superior-1"
+      ],
+      "totalCost": 1500
+    },
+    {
+      "id": "cfbc",
+      "movieImg": "https://hardrockfm.com/wp-content/uploads/2016/12/dispicable-me-511x400.jpg",
+      "movieName": "Despicable Me 3",
+      "selectedDate": "2024-05-04",
+      "selectedShowTime": "4:30 PM",
+      "selectedSeats": [
+        "sofa-1",
+        "sofa-2",
+        "superior-1"
+      ],
+      "totalCost": 1500
+    },
+    {
+      "id": "74ea",
+      "movieImg": "https://wallpapercave.com/wp/wp8006765.jpg",
+      "movieName": "Thor",
+      "selectedDate": "2024-04-19",
+      "selectedShowTime": "7:00 PM",
+      "selectedSeats": [
+        "sofa-1",
+        "sofa-2"
+      ],
+      "totalCost": 1200
+    },
+    {
+      "id": "c89c",
+      "movieImg": "https://wallpapercave.com/wp/wp8006765.jpg",
+      "movieName": "Thor",
+      "selectedDate": "2024-04-19",
+      "selectedShowTime": "7:00 PM",
+      "selectedSeats": [
+        "sofa-1",
+        "sofa-2"
+      ],
+      "totalCost": 1200
+    }
+  ]
+}

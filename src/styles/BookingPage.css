@@ -1,0 +1,138 @@
+.booking-details {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.booking-details img {
+  width: 20%;
+  height: 10%;
+}
+
+.movie-title {
+  margin: 10px;
+  color: grey;
+  font-weight: 600;
+  text-align: center;
+}
+
+/* Date and Show time slection */
+
+.selected-show-timings {
+  margin-top: 20px;
+}
+
+.selected-show-timings label {
+  display: block;
+  margin-bottom: 8px;
+  font-weight: bold;
+  font-size: 18px;
+  color: rgb(5, 200, 135);
+}
+
+.selected-show-timings input[type="date"],
+.selected-show-timings select {
+  width: 100%;
+  padding: 8px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  background-color: #fff;
+  font-size: 16px;
+  color: rgb(5, 97, 97);
+}
+
+.selected-show-timings input[type="date"] {
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  appearance: none;
+  background-image: url("data:image/svg+xml,%3Csvg fill='none' xmlns='http://www.w3.org/2000/svg' viewBox='0 0 20 20'%3E%3Cpath fill-rule='evenodd' clip-rule='evenodd' d='M5.25 8.5a.75.75 0 1 0 0-1.5.75.75 0 0 0 0 1.5zM5 10a.75.75 0 0 1 1.5 0v4.25a.75.75 0 0 1-1.5 0V10zM8.5 10a.75.75 0 0 1 1.5 0v4.25a.75.75 0 0 1-1.5 0V10zM12 10a.75.75 0 0 1 1.5 0v4.25a.75.75 0 0 1-1.5 0V10zM13.25 8.5a.75.75 0 1 1 0-1.5.75.75 0 0 1 0 1.5z' fill='%23707070'/%3E%3C/svg%3E");
+  background-repeat: no-repeat;
+  background-position: right 10px center;
+  background-size: 14px;
+  margin-bottom: 20px;
+}
+
+/* Seat Selection */
+
+.seat-selection-container {
+  margin-top: 20px;
+}
+
+.seat-selection-container h2 {
+  font-size: 24px;
+  margin-bottom: 10px;
+  text-align: center;
+  font-family: "Cabin", sans-serif;
+  color: gray;
+}
+
+.seat-grid {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.seat-row {
+  display: flex;
+  align-items: center;
+  margin-bottom: 5px;
+}
+
+.row-label {
+  width: 30px;
+  text-align: center;
+  margin-right: 5px;
+}
+
+.seat {
+  width: 30px;
+  height: 30px;
+  border: 1px solid #ccc;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  cursor: pointer;
+}
+
+.seat:hover {
+  background-color: #f0f0f0;
+}
+
+.seat.selected {
+  background-color: rgb(5, 200, 135);
+}
+
+.seat-icon {
+  font-size: 18px;
+  color: #5d5a5a;
+}
+
+button {
+  padding: 10px 20px;
+  background-color: #4caf50;
+  color: #fff;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+  margin-bottom: 20px;
+}
+
+button:hover {
+  background-color: #45a049;
+}
+
+button:disabled {
+  background-color: #ccc;
+  cursor: not-allowed;
+}
+
+.text {
+  color: #223033;
+  font-size: 18px;
+}
+
+.seating-options {
+  color: rgb(1, 9, 28);
+  font-family: "Cabin", sans-serif;
+  text-align: center;
+}

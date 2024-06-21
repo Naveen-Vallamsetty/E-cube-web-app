@@ -1,0 +1,37 @@
+ul {
+  list-style: none;
+}
+
+.booking-card {
+  display: flex;
+  align-items: left;
+  padding: 20px;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  margin-bottom: 20px;
+  margin-right: 20px;
+}
+
+.qr-code {
+  width: 500px;
+  margin-right: 20px;
+}
+
+.vertical-line {
+  border-left: 1px solid #ccc;
+}
+
+.booking-details {
+  flex: 1;
+}
+
+.booking-detail {
+  color: gray;
+  font-size: 18px;
+  margin-bottom: 0;
+}
+
+.download-link {
+  margin-top: 20px;
+  font-size: 18px;
+}

@@ -1,70 +1,43 @@
-# Getting Started with Create React App
+Install the dependencies - `npm i` or `npm install`
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Run the json server - `npm run server` - to get API end points
 
-## Available Scripts
+http://172.25.208.1:4000/latest
+http://172.25.208.1:4000/upcomingMovies
+http://172.25.208.1:4000/events
+http://172.25.208.1:4000/booking-details
 
-In the project directory, you can run:
+172.25.208.1 - replace this your local IPV4 address fecthed by using `ipconfig` command
+After getting IPv4 replace API_URL with taht in a[text](src/config/api.js) file.
 
-### `npm start`
+Start the project - `npm start`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Build an Online Movie Ticket Booking Web-Application using React andRedux
+Background:
+E-Cube is a web application, which allows user to book online tickets for latest movies, concertsand other LIVE events happening in the city. With the increase in web traffic, E-Cube’s websiteload time increases significantly which in turn reduces the speed and performance of thewebsite. It was earlier designed using traditional web development methodologies. Also, onadding or updating any feature, maintaining the website was difficult for the development teamdue to tight coupling of UI components. Hence, all these challenges led to unsatisfied user
+experience. Now they want to focus on maximizing the usability and enhancing the user experience, sothecompany decided to upgrade their website using React library. Goal:
+The goal of this project is to build an online ticket booking application for latest movies, upcoming movies, concerts and other LIVE events. Web Application Requirement:
+JavaScript, HTML, CSS, React, Redux and Axios to call API. Web Application Implementation:
+The Web Application should include following aspects:
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+1. All Latest movies
+2. Latest Movies Details
+3. Ticket booking page
+4. Final Ticket Page
+5. All Upcoming movies
+6. Events
 
-### `npm test`
+   1. Latest Movies:
+      This section should contain the list of all the new movies available in the theatre.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+   2. Movies Detail Page:
+      On clicking the movie, application should navigate the user to its details page which should include below options.
 
-### `npm run build`
+   3. Ticket Booking Page:
+      On clicking “Book Now” option, user should be navigated to ticket booking page whichshould include the below options.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+   4. Final Booking Page:
+      After selecting the tickets, a QR code should be generated with all the booking details, which can be scanned by user’s mobile phone.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+   5. Nearby Event:
+      This section should have the details of events like concerts, Drama-plays, Competitionsand other activities happening in the city.

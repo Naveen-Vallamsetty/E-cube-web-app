@@ -1,0 +1,37 @@
+/* SeatSelection.css */
+
+.seat-grid {
+  display: flex;
+  flex-direction: column;
+}
+
+.seat-row {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 10px;
+}
+
+.seat {
+  width: 30px;
+  height: 30px;
+  margin: 0 5px;
+  border: 1px solid #ccc;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  cursor: pointer;
+}
+
+.seat-icon {
+  width: 20px;
+  height: 20px;
+}
+
+.empty {
+  background-color: transparent;
+}
+
+.selected {
+  background-color: #007bff;
+  color: #fff;
+}
