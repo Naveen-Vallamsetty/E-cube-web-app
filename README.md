@@ -4,9 +4,9 @@ Install the dependencies - `npm i` or `npm install`
 
 Run the JSON server - `npm run server` - to get API endpoints
 
-http://172.25.208.1:4000/latest
-http://172.25.208.1:4000/upcomingMovies
-http://172.25.208.1:4000/events
+http://172.25.208.1:4000/latest     ,   
+http://172.25.208.1:4000/upcomingMovies   , 
+http://172.25.208.1:4000/events , 
 http://172.25.208.1:4000/booking-details
 
 172.25.208.1 - replace this with your local IPV4 address fecthed by using the `ipconfig` command
