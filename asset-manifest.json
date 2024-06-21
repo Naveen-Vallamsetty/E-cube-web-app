@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/E-cube-web-app/static/css/main.c86363a0.css",
+    "main.js": "/E-cube-web-app/static/js/main.36461380.js",
+    "index.html": "/E-cube-web-app/index.html",
+    "main.c86363a0.css.map": "/E-cube-web-app/static/css/main.c86363a0.css.map",
+    "main.36461380.js.map": "/E-cube-web-app/static/js/main.36461380.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c86363a0.css",
+    "static/js/main.36461380.js"
+  ]
+}
