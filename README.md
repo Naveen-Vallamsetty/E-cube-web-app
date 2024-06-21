@@ -8,7 +8,7 @@ http://172.25.208.1:4000/events
 http://172.25.208.1:4000/booking-details
 
 172.25.208.1 - replace this your local IPV4 address fecthed by using `ipconfig` command
-After getting IPv4 replace API_URL with taht in a[text](src/config/api.js) file.
+After getting IPv4 replace API_URL with that in a [text](src/config/api.js) file.
 
 Start the project - `npm start`
 
