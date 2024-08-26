@@ -1,8 +1,3 @@
-Install the dependencies - `npm i` or `npm install`
-
-Start the project - `npm start`
-
----
 
 # E-Cube: Online Movie Ticket Booking Web Application
 
@@ -33,7 +28,7 @@ Start the project - `npm start`
 
 **React** - for Frontend
 **Redux** - for state management
-**CSS** - for stylying
+**CSS** - for styling
 **axios** - to make API calls
 
 ## Installation
@@ -53,6 +48,7 @@ To get a local copy of the project up and running, follow these simple steps:
 
    Run the JSON server - `npm run server` - to get API endpoints
 
+   To start the project
    `npm start`
    The application will run on `http://localhost:3000`.
 
@@ -70,8 +66,8 @@ After starting the development server, you can use the application to:
 - **src**
   - **components**: Contains all the React components used in the application.
   - **redux**: Handles the state management using Redux.
-  - **Pages**: Includes the pages that are server as web page
-  - **styles**: CSS files for styling the components.
+  - **Pages**: Includes the pages that are served as web page
+  - **styles**: CSS files are used to style the components.
   - **App.js**: The root component that ties everything together.
   - **index.js**: The entry point for the React application.
 
@@ -94,4 +90,4 @@ After starting the development server, you can use the application to:
 - **Payment Integration:** Adding a payment gateway for online payments.
 - **User Authentication:** Implementing login and registration features for personalized user experiences.
 - **Seat Selection Improvements:** Enhancing the seat selection process with better UI/UX.
-- **Search Functionality:** Adding a search bar to quickly find movies and events.
+- **Search Functionality:** Adding a search bar to find movies and events quickly.
