@@ -1,45 +1,97 @@
-Clone the repository
-
 Install the dependencies - `npm i` or `npm install`
-
-Run the JSON server - `npm run server` - to get API endpoints
-
-http://172.25.208.1:4000/latest     ,   
-http://172.25.208.1:4000/upcomingMovies   , 
-http://172.25.208.1:4000/events , 
-http://172.25.208.1:4000/booking-details
-
-172.25.208.1 - replace this with your local IPV4 address fecthed by using the `ipconfig` command
-After getting IPv4 replace API_URL with that in a [text](src/config/api.js) file.
 
 Start the project - `npm start`
 
-Build an Online Movie Ticket Booking Web-Application using React and Redux
-Background:
-E-Cube is a web application, which allows user to book online tickets for the latest movies, concerts, and other LIVE events happening in the city. With the increase in web traffic, E-Cube’s website load time increases significantly which in turn reduces the speed and performance of the website. It was earlier designed using traditional web development methodologies. Also, adding or updating any feature, and maintaining the website was difficult for the development team due to the tight coupling of UI components. Hence, all these challenges led to an unsatisfied user
-experience. Now they want to focus on maximizing the usability and enhancing the user experience, so the company decided to upgrade their website using the React library. Goal:
-The goal of this project is to build an online ticket booking application for the latest movies, upcoming movies, concerts, and other LIVE events. Web Application Requirement:
-JavaScript, HTML, CSS, React, Redux, and Axios to call API. Web Application Implementation:
-The Web Application should include the following aspects:
+---
 
-1. All Latest movies
-2. Latest Movies Details
-3. Ticket booking page
-4. Final Ticket Page
-5. All Upcoming movies
-6. Events
+# E-Cube: Online Movie Ticket Booking Web Application
 
-   1. Latest Movies:
-      This section should contain a list of all the new movies available in the theatre.
+## Overview
 
-   2. Movies Detail Page:
-      On clicking the movie, the application should navigate the user to its details page which should include the below options.
+**E-Cube** is an advanced web application that allows users to book tickets for the latest movies, concerts, and other live events happening in their city. Originally developed using traditional web development methodologies, E-Cube faced challenges with website load time, tight coupling of UI components, and difficulties in feature updates. To enhance usability, performance, and overall user experience, the application has been upgraded using the **React** library and **Redux** for state management.
 
-   3. Ticket Booking Page:
-      On clicking the “Book Now” option, a user should be navigated to the ticket booking page which should include the below options.
+## Table of Contents
 
-   4. Final Booking Page:
-      After selecting the tickets, a QR code should be generated with all the booking details, which can be scanned by the user’s mobile phone.
+- [Features](#features)
+- [Tech Stack](#tech-stack)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Application Structure](#application-structure)
+- [Screenshots](#screenshots)
+- [Future Enhancements](#future-enhancements)
 
-   5. Nearby Event:
-      This section should have the details of events like concerts, Drama-plays, Competitions and other activities happening in the city.
+## Features
+
+- **Latest Movies:** Displays a list of all new movies currently available in theaters.
+- **Movies Details Page:** Provides detailed information about a selected movie, including synopsis, cast, and crew.
+- **Ticket Booking Page:** Allows users to select their preferred seats and book tickets for their desired showtime.
+- **Final Booking Page:** Generates a QR code with all booking details, which can be scanned by the user's mobile device.
+- **Upcoming Movies:** Displays a list of movies that will be released soon.
+- **Events:** Includes details of nearby events such as concerts, drama plays, competitions, and other activities happening in the city.
+
+## Tech Stack
+
+**React** - for Frontend
+**Redux** - for state management
+**CSS** - for stylying
+**axios** - to make API calls
+
+## Installation
+
+To get a local copy of the project up and running, follow these simple steps:
+
+1. **Clone the repository:**
+   `git@github.com:Naveen-Vallamsetty/E-cube-web-app.git`
+
+2. **Navigate to the project directory:**
+   `cd e-cube-web-app`
+
+3. **Install the dependencies:**
+   `npm install`
+
+4. **Start the development server:**
+
+   Run the JSON server - `npm run server` - to get API endpoints
+
+   `npm start`
+   The application will run on `http://localhost:3000`.
+
+## Usage
+
+After starting the development server, you can use the application to:
+
+- Browse the latest movies and events.
+- View detailed information about each movie.
+- Book tickets by selecting the desired showtime and seats.
+- Access your booked tickets via a QR code.
+
+## Application Structure
+
+- **src**
+  - **components**: Contains all the React components used in the application.
+  - **redux**: Handles the state management using Redux.
+  - **Pages**: Includes the pages that are server as web page
+  - **styles**: CSS files for styling the components.
+  - **App.js**: The root component that ties everything together.
+  - **index.js**: The entry point for the React application.
+
+## Screenshots
+
+- Home Page
+  ![alt text](public/outputScreenshots/home.png)
+
+- Latest Movies Page
+  ![alt text](public/outputScreenshots/latest.png)
+
+- Movies Details Page
+  ![alt text](public/outputScreenshots/movie_details.png)
+
+- Ticket Booking Page
+  ![alt text](public/outputScreenshots/ticket_booking.png)
+
+## Future Enhancements
+
+- **Payment Integration:** Adding a payment gateway for online payments.
+- **User Authentication:** Implementing login and registration features for personalized user experiences.
+- **Seat Selection Improvements:** Enhancing the seat selection process with better UI/UX.
+- **Search Functionality:** Adding a search bar to quickly find movies and events.
