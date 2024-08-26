@@ -83,6 +83,7 @@ After starting the development server, you can use the application to:
   ![alt text](public/outputScreenshots/movie_details.png)
 
 - Ticket Booking Page
+  
   ![alt text](public/outputScreenshots/ticket_booking.png)
 
 ## Future Enhancements
